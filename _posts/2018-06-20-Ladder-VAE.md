@@ -12,11 +12,11 @@ Ladder VAE is a VAE architecture that can effectively several stochastic layers.
 
 ## The generative network is:
 
-\\[ P(\textbf{z}) = P(\textbf{z}_L)\prod_{i=1}^{L-1}P(\textbf{z}_i|\textbf{z}_{i+1}) \\]
+$$ P(\textbf{z}) = P(\textbf{z}_L)\prod_{i=1}^{L-1}P(\textbf{z}_i|\textbf{z}_{i+1}) $$
 
 Where:
 
-\\[ P(\textbf{z}_i|\textbf{z}_{i+1}) = Normal(\textbf{z}_i|\mu_{p,i}(\textbf{z}_{i+1}), \sigma^2_{p,i}(z_{i+1})) \\]
+\[ P(\textbf{z}_i|\textbf{z}_{i+1}) = Normal(\textbf{z}_i|\mu_{p,i}(\textbf{z}_{i+1}), \sigma^2_{p,i}(z_{i+1})) \]
 
 and
 
