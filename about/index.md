@@ -31,6 +31,10 @@ This sections contains various study notes and unpublished manuscripts.
 * Travel Grant, ACM SIGIR conference 2017
 
 ## Professional Services
+* Program Committee for AIRS 2018
+* Conference Papers reviewers for CIKM 2017-2018
+* Neural Computing Journal Reviewers 2018
+* Conference Papers reviewers for IEEE Big Data 2017
 
 ## Teaching Assitantship
 * 2016-2017
