@@ -4,6 +4,7 @@ title: "Ladder VAE (NIPS'2016)"
 date: 2018-06-20
 excerpt: "A summery of Ladder VAE."
 tags: [VAE]
+mathjax: true
 comments: false
 ---
 
