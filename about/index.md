@@ -38,9 +38,9 @@ This sections contains various study notes and unpublished manuscripts.
 
 ## Teaching Assitantship
 * 2016-2017
-** COEN10, COEN12, COEN45
+-- COEN10, COEN12, COEN45
 * 2015-2016
-** COEN11, COEN12, COEN45, COEN160
+-- COEN11, COEN12, COEN45, COEN160
 
 ## Misc
 Some motivational quotes and jokes that I like:
