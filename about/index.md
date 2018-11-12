@@ -6,8 +6,6 @@ date: 2018-11-12
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
 I am a Phd student at Santa Clara University advised by Prof. Yi Fang . My research interests are document analysis, Bayesian models, Deep Generative models with applications to information retrieval and recommendation systems. When I am not doing research, I have created Thai-subtitles for more than 120 minutes of Khan academy video lectures.
 To reach me out, please email me: schaidaroon AT scu DOT edu
 
