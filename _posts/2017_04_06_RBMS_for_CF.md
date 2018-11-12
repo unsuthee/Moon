@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "RBMs for Collaborative Filtering (NIPS'2016)"
+title: "RBMs for Collaborative Filtering (ICML'2007)"
 date: 2017-04-06
-excerpt: ""
+excerpt: "A summary of using RBMS for Collaborative Filtering."
 tags: [CF]
 mathjax: true
 comments: false
