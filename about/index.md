@@ -1,37 +1,44 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Suthee
+tags: [about]
+date: 2018-11-12
 comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+I am a Phd student at Santa Clara University advised by Prof. Yi Fang . My research interests are document analysis, Bayesian models, Deep Generative models with applications to information retrieval and recommendation systems. When I am not doing research, I have created Thai-subtitles for more than 120 minutes of Khan academy video lectures.
+To reach me out, please email me: schaidaroon AT scu DOT edu
 
-## Preview
+## Publications
+* **Suthee Chaidaroon**, Travis Ebesu, and Yi Fang. 2018. "Deep Semantic Text Hashing with Weak Supervision," *In Proceedings of ACM SIGIR conference, Ann Arbor, Michigan, USA, July 8-12, 2018*, Short Paper. Acceptance rate: 30% (98 out of 327)
+* **Suthee Chaidaroon** and Yi Fang. 2017. "Variational Deep Semantic Hashingfor Text Documents," *In Proceedings of ACM SIGIR conference, Tokyo, Japan, August 7-11, 2017*, Full Paper. Acceptance rate: 22% (78 out of 362)
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Expository
+This sections contains various study notes and unpublished manuscripts.
+* Relevance Matching (slides)
+* Capsule Networks (slides)
+* EM and Mean-field variational inference (slides)
+* Deep Generative Models
+* Latent Dirichlet Allocation (LDA)
+* LDA extension
+* Variational Inference
+* Stochastic Variational Inference
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Honors and Awards
+* Travel Grant, ACM SIGIR conference 2018
+* Travel Grant, ACM SIGIR conference 2017
 
-## Getting Started
+## Professional Services
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Teaching Assitantship
+* 2016-2017
+** COEN10, COEN12, COEN45
+* 2015-2016
+** COEN11, COEN12, COEN45, COEN160
+
+## Misc
+Some motivational quotes and jokes that I like:
+* "When eating an elephant, take one bit at a time." - Creighton Abrames
+* "A journey of a thousand miles begins with a single step." - Laozi
