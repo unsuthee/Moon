@@ -18,7 +18,7 @@ The generative process is:
   
 The likelihood of the dataset is:
 
-$$ p(D) = \int p(c) \big[ \prod_{x \in D} \int p(x|z;\theta)p(z|c;\theta)dz \big]dc $$
+$$ p(D) = \int p(c) \big\[ \prod_{x \in D} \int p(x|z;\theta)p(z|c;\theta)dz \big\]dc $$
 
 The paper define the approximate inference network, \\( q(z|x,c;\phi) \\) and \\( q(c|D; \phi) \\) to optimize a variational lowerbound. The single dataset log likelihood lowerboud is:
 
