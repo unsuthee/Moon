@@ -18,13 +18,13 @@ The generative process is:
   
 The likelihood of the dataset is:
 
-$$ p(D) = \int p(c) \big\[ \prod_{x \in D} \int p(x|z;\theta)p(z|c;\theta)dz \big\]dc $$
+$$ p(D) = \int p(c) \big\[ \prod_{x \in D} \int p(x \mid z;\theta)p(z \mid c;\theta)dz \big\]dc $$
 
-The paper define the approximate inference network, \\( q(z|x,c;\phi) \\) and \\( q(c|D; \phi) \\) to optimize a variational lowerbound. The single dataset log likelihood lowerboud is:
+The paper define the approximate inference network, \\( q(z \mid x,c;\phi) \\) and \\( q(c \mid D; \phi) \\) to optimize a variational lowerbound. The single dataset log likelihood lowerboud is:
 
-$$ \mathcal{L}_D = E_{q(c|D;\phi)}\big\[\sum_{x \in d} E_{q(z|c, x; \phi)}\[ \log p(x|z;\theta)\] - D_{KL}(q(z|c,x;\phi)||p(z|c;\theta)) \big\] - D_{KL}(q(c|D;\phi)||p(c)) $$
+$$ \mathcal{L}_D = E_{q(c \mid D;\phi)}\big\[\sum_{x \in d} E_{q(z \mid c, x; \phi)}\[ \log p(x \mid z;\theta)\] - D_{KL}(q(z \mid c,x;\phi)||p(z \mid c;\theta)) \big\] - D_{KL}(q(c \mid D;\phi)||p(c)) $$
 
-The statistic network \\( q(c|D; \phi) \\) that approximates the posterior distribution over the context c given the dataset D. Basically, this inference network has an encoder to take each datapoint into a vector \\( e_i = E(x_i) \\). Then, add a pool layer to aggregate \\( e_i \\) into a single vector, an element-wise mean is used. The final vector is used to generate parameters of a diagonal Gaussian.
+The statistic network \\( q(c \mid D; \phi) \\) that approximates the posterior distribution over the context c given the dataset D. Basically, this inference network has an encoder to take each datapoint into a vector \\( e_i = E(x_i) \\). Then, add a pool layer to aggregate \\( e_i \\) into a single vector, an element-wise mean is used. The final vector is used to generate parameters of a diagonal Gaussian.
 
 This model surprisingly works well for many tasks such as topic models, transfer learning, one-shot learning, etc.
 
