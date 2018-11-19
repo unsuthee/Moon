@@ -13,8 +13,8 @@ One extension of VAE is to add a hierarchy structure. In contrast to the classic
 The generative process is:
 - Draw a dataset prior \\( \boldsymbol{c} \sim N(\boldsymbol{0}, \boldsymbol{I}) \\)
 - For each data point in the dataset
-  - Draw a latent vector $$ \boldsymbol{z} \sim P(\cdot | \boldsymbol{c}) $$
-  - Draw a sample $$ \boldsymbol{x} \sim P(\cdot | \boldsymbol{z}) $$
+  - Draw a latent vector \\( \boldsymbol{z} \sim P(\cdot \mid \boldsymbol{c}) \\)
+  - Draw a sample \\( \boldsymbol{x} \sim P(\cdot \mid \boldsymbol{z}) \\)
   
 The likelihood of the dataset is:
 
