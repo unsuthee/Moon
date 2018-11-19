@@ -13,7 +13,7 @@ To reach me out, please email me: schaidaroon AT scu DOT edu
 * **Suthee Chaidaroon**, Travis Ebesu, and Yi Fang. 2018. "Deep Semantic Text Hashing with Weak Supervision," *In Proceedings of ACM SIGIR conference, Ann Arbor, Michigan, USA, July 8-12, 2018*, Short Paper. Acceptance rate: 30% (98 out of 327)
     * [[paper]](https://www.dropbox.com/s/wqbghl7sv4gaa18/Variational_Deep_Hashing_for_Text_Documents.pdf?dl=0) [[slides]](https://www.dropbox.com/s/b2jsxidk5539vu3/VDSH_Slides_SIGIR_2017.pdf?dl=0) [[bib]](https://www.dropbox.com/s/u824w51z02vrxt4/Variational_Deep_SH_for_Text.bib?dl=0)
 * **Suthee Chaidaroon** and Yi Fang. 2017. "Variational Deep Semantic Hashingfor Text Documents," *In Proceedings of ACM SIGIR conference, Tokyo, Japan, August 7-11, 2017*, Full Paper. Acceptance rate: 22% (78 out of 362)
-    * [paper](https://www.dropbox.com/s/wau8envoxdjred8/Deep_Semantic_Text_Hashing_With_Weak_Supervision.pdf?dl=0) [poster](https://www.dropbox.com/s/pchngtsec29vw6s/SH_weak_supervision_Poster.pdf?dl=0) [bib](https://www.dropbox.com/s/12lcc0g9g8pstb9/SemanticHashingWeakSupervision.bib?dl=0)
+    * [[paper]](https://www.dropbox.com/s/wau8envoxdjred8/Deep_Semantic_Text_Hashing_With_Weak_Supervision.pdf?dl=0) [[poster]](https://www.dropbox.com/s/pchngtsec29vw6s/SH_weak_supervision_Poster.pdf?dl=0) [[bib]](https://www.dropbox.com/s/12lcc0g9g8pstb9/SemanticHashingWeakSupervision.bib?dl=0)
 
 ## Expository
 This sections contains various study notes and unpublished manuscripts.
