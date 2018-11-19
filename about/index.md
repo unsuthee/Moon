@@ -16,7 +16,7 @@ To reach me out, please email me: schaidaroon AT scu DOT edu
 ## Expository
 This sections contains various study notes and unpublished manuscripts.
 * Relevance Matching (slides)
-* Capsule Networks (slides)
+* [Capsule Networks (slide)](https://www.dropbox.com/s/x01munf9vdwunzr/CapsuleNetworks.pdf?dl=0) 
 * EM and Mean-field variational inference (slides)
 * Deep Generative Models
 * Latent Dirichlet Allocation (LDA)
