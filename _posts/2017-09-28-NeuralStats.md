@@ -3,7 +3,7 @@ layout: post
 title: "Towards a Neural Statistician (ICLR'17)"
 date: 2017-09-28
 excerpt: "A summery of Hierarchical VAE model."
-tags: [VAE]
+tags: [VAE, ICLR]
 mathjax: true
 comments: false
 ---
