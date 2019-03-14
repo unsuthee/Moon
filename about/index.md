@@ -6,7 +6,7 @@ date: 2018-11-12
 comments: false
 ---
     
-I am a Phd student at Santa Clara University advised by [Prof. Yi Fang](http://www.cse.scu.edu/~yfang/). Prior to SCU, I've obtained my Master degree in Computer Engineering from Santa Clara University and Bachelor degree in Computer Sciences and Engineering (EECS) from UC Berkeley. My research interests are deep Generative models with applications to information retrieval and recommendation systems, representation learning for text documents, document and word embedding. I also have created Thai-subtitles for more than 120 minutes of Khan academy video lectures.
+I am senior data scientist at [Walmart Labs](https://www.walmartlabs.com/) and currently a Phd student at Santa Clara University advised by [Prof. Yi Fang](http://www.cse.scu.edu/~yfang/). Prior to SCU, I've obtained my Master degree in Computer Engineering from Santa Clara University and Bachelor degree in Computer Sciences and Engineering (EECS) from UC Berkeley. My research interests are deep Generative models with applications to information retrieval and recommendation systems, representation learning for text documents, document and word embedding. I also have created Thai-subtitles for more than 120 minutes of Khan academy video lectures.
 
 To reach me out, please email me: schaidaroon AT scu DOT edu
 
