@@ -12,7 +12,7 @@ To reach me out, please email me: schaidaroon AT scu DOT edu
 
 ## Publications
 * **Suthee Chaidaroon**, Min Xie, Alessandro Magnani, Yi Fang. 2019. "Neural Compatibility Ranking for Text-based Fashion Matching," *In Proceedings of ACM SIGIR conference, Paris, France, July 21-25, 2019*, Short Paper. Acceptance rate: 24.4% (108 out of 443)
-    * [[paper]](SIGIR2019_Compatible_Matching.pdf) [[poster]](FashionMatching_Poster_SIGIR2019_v2.pdf) [bib] [code]
+    * [[paper]](SIGIR2019_Compatible_Matching.pdf) [[poster]](FashionMatching_Poster_SIGIR2019_v2.pdf) 
 * **Suthee Chaidaroon**, Travis Ebesu, and Yi Fang. 2018. "Deep Semantic Text Hashing with Weak Supervision," *In Proceedings of ACM SIGIR conference, Ann Arbor, Michigan, USA, July 8-12, 2018*, Short Paper. Acceptance rate: 30% (98 out of 327)
     *  [[paper]](https://www.dropbox.com/s/wau8envoxdjred8/Deep_Semantic_Text_Hashing_With_Weak_Supervision.pdf?dl=0) [[poster]](https://www.dropbox.com/s/pchngtsec29vw6s/SH_weak_supervision_Poster.pdf?dl=0) [[bib]](https://www.dropbox.com/s/u824w51z02vrxt4/Variational_Deep_SH_for_Text.bib?dl=0) [[code]](https://github.com/unsuthee/SemanticHashingWeakSupervision)
 * **Suthee Chaidaroon** and Yi Fang. 2017. "Variational Deep Semantic Hashingfor Text Documents," *In Proceedings of ACM SIGIR conference, Tokyo, Japan, August 7-11, 2017*, Full Paper. Acceptance rate: 22% (78 out of 362)
