@@ -10,30 +10,6 @@ I am senior data scientist at [Walmart Labs](https://www.walmartlabs.com/) and c
 
 To reach me out, please email me: schaidaroon AT scu DOT edu
 
-\author{Dae Hoon Park}
-\address{Huawei Research America, USA}
-% \affiliation{%
-%   \institution{Huawei Research America}
-%   \city{Santa Clara}
-%   \state{CA}
-%   \postcode{95050}
-%   \country{USA}}
-% \email{dpark@gmail.com}
-
-\author{Yi Chang}
-\address{Jilin University, China}
-% \affiliation{%
-%   \institution{ Jilin University}
-%   \city{Santa Clara}
-%   %\state{CA}
-%   %\postcode{95050}
-%   \country{China}}
-% \email{garrychang@gmail.com}
-
-\author{Yi Fang}
-\address{Santa Clara University, USA}
-Information Processing and Management (IPM), Elsevier, 2017
-
 ## Publications
 * **Suthee Chaidaroon**, Dae Hoon Park, Yi Fang, Yi Chang, 2019. "node2hash: Graph Aware Deep Semantic Text Hashing," *In Information Processing and Management (IPM)*, Elsevier, 2019. (Impact Factor: 3.892)
     * [Paper][Code]
