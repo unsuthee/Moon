@@ -12,7 +12,7 @@ To reach me out, please email me: schaidaroon AT scu DOT edu
 
 ## Publications
 * **Suthee Chaidaroon**, Dae Hoon Park, Yi Fang, Yi Chang, 2019. "node2hash: Graph Aware Deep Semantic Text Hashing," *In Information Processing and Management (IPM)*, Elsevier, 2019. (Impact Factor: 3.892)
-    * [Paper][Code]
+    * [[preprint]](_IPM__Node2Hash_Preprint_v3.pdf)[[code]](https://github.com/unsuthee/node2hash)
 * **Suthee Chaidaroon**, Min Xie, Alessandro Magnani, Yi Fang. 2019. "Neural Compatibility Ranking for Text-based Fashion Matching," *In Proceedings of ACM SIGIR conference, Paris, France, July 21-25, 2019*, Short Paper. Acceptance rate: 24.4% (108 out of 443)
     * [[paper]](SIGIR2019_Compatible_Matching.pdf) [[poster]](FashionMatching_Poster_SIGIR2019_v2.pdf) 
 * **Suthee Chaidaroon**, Travis Ebesu, and Yi Fang. 2018. "Deep Semantic Text Hashing with Weak Supervision," *In Proceedings of ACM SIGIR conference, Ann Arbor, Michigan, USA, July 8-12, 2018*, Short Paper. Acceptance rate: 30% (98 out of 327)
