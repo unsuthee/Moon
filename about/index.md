@@ -6,7 +6,7 @@ date: 2018-11-12
 comments: false
 ---
     
-I am senior data scientist at [Walmart Labs](https://www.walmartlabs.com/) and currently a Phd student at Santa Clara University advised by [Prof. Yi Fang](http://www.cse.scu.edu/~yfang/). Prior to SCU, I've obtained my Master degree in Computer Engineering from Santa Clara University and Bachelor degree in Computer Sciences and Engineering (EECS) from UC Berkeley. My research interests are deep Generative models with applications to information retrieval and recommendation systems, representation learning for text documents, document and word embedding. I also have created Thai-subtitles for more than 120 minutes of Khan academy video lectures.
+I am senior data scientist at [Walmart Labs](https://www.walmartlabs.com/). I have completed the PhD at Santa Clara University advised by [Prof. Yi Fang](http://www.cse.scu.edu/~yfang/). Prior to SCU, I've obtained my Master degree in Computer Engineering from Santa Clara University and Bachelor degree in Computer Sciences and Engineering (EECS) from UC Berkeley. My research interests are deep Generative models with applications to information retrieval and recommendation systems, representation learning for text documents, document and word embedding. I also have created Thai-subtitles for more than 120 minutes of Khan academy video lectures.
 
 To reach me out, please email me: schaidaroon AT scu DOT edu
 
@@ -21,7 +21,10 @@ To reach me out, please email me: schaidaroon AT scu DOT edu
     * [[paper]](https://www.dropbox.com/s/wqbghl7sv4gaa18/Variational_Deep_Hashing_for_Text_Documents.pdf?dl=0) [[slides]](https://www.dropbox.com/s/b2jsxidk5539vu3/VDSH_Slides_SIGIR_2017.pdf?dl=0) [[bib]](https://www.dropbox.com/s/12lcc0g9g8pstb9/SemanticHashingWeakSupervision.bib?dl=0) [[code]](https://github.com/unsuthee/VariationalDeepSemanticHashing)
 
 ## Dissertation 
-* [Deep Generative Models for Semantic Text Hashing](Phd_Final_Defense_Short_version.pptx)
+* Deep Generative Models for Semantic Text Hashing
+    * [Dissertation]
+    * [[Slides]](Phd_Final_Defense_Short_version.pptx)
+
 ## Expository
 This sections contains various study notes and unpublished manuscripts.
 * [Relevance Matching (slide)](https://www.dropbox.com/s/62on73l0a7j0k13/Relevance_Matching_Suthee2018.pdf?dl=0)
