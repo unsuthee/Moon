@@ -20,6 +20,8 @@ To reach me out, please email me: schaidaroon AT scu DOT edu
 * **Suthee Chaidaroon** and Yi Fang. 2017. "Variational Deep Semantic Hashingfor Text Documents," *In Proceedings of ACM SIGIR conference, Tokyo, Japan, August 7-11, 2017*, Full Paper. Acceptance rate: 22% (78 out of 362)
     * [[paper]](https://www.dropbox.com/s/wqbghl7sv4gaa18/Variational_Deep_Hashing_for_Text_Documents.pdf?dl=0) [[slides]](https://www.dropbox.com/s/b2jsxidk5539vu3/VDSH_Slides_SIGIR_2017.pdf?dl=0) [[bib]](https://www.dropbox.com/s/12lcc0g9g8pstb9/SemanticHashingWeakSupervision.bib?dl=0) [[code]](https://github.com/unsuthee/VariationalDeepSemanticHashing)
 
+## Dissertation 
+* [Deep Generative Models for Semantic Text Hashing](Phd_Final_Defense_Short_version.pptx)
 ## Expository
 This sections contains various study notes and unpublished manuscripts.
 * [Relevance Matching (slide)](https://www.dropbox.com/s/62on73l0a7j0k13/Relevance_Matching_Suthee2018.pdf?dl=0)
