@@ -22,7 +22,7 @@ To reach me out, please email me: schaidaroon AT scu DOT edu
 
 ## Dissertation 
 * Deep Generative Models for Semantic Text Hashing
-    * [Dissertation]
+    * [[Dissertation]](https://scholarcommons.scu.edu/eng_phd_theses/27/)
     * [[Slides]](Phd_Final_Defense_Short_version.pptx)
 
 ## Expository
